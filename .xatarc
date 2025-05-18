@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Sameer-Randive-s-workspace-uijkoh.us-east-1.xata.sh/db/jsm_videorecord",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
